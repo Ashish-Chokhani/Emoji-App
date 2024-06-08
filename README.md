@@ -18,7 +18,7 @@ This is a simple React application that displays a list of emojis along with the
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Emoji-App.git
+    git clone https://github.com/Ashish-Chokhani/Emoji-App.git
     cd Emoji-App
     ```
 
