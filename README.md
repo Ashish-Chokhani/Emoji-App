@@ -69,7 +69,7 @@ This project uses the following dependencies:
 - react: ^18.2.0
 - react-dom: ^18.2.0
 - react-scripts: ^5.0.1
-For a full list of dependencies, see the [package.json](https://github.com/Ashish-Chokhani/Emoji-App/blob/master/package.json) file.
+- For a full list of dependencies, see the [package.json](https://github.com/Ashish-Chokhani/Emoji-App/blob/master/package.json) file.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute.
